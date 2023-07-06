@@ -1,4 +1,6 @@
-### Hi there 👋
+### 📋 Skills Available & Experienced
+<img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/styledComponents-db7093?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 
 <!--
 **ohwowoAo/ohwowoAo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
