@@ -17,14 +17,14 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br />
-<h3>👧🏻 Follow Me</h3>
+<!--h3>👧🏻 Follow Me</h3>
 <div>
   <a href="https://instagram.com/ohwowo_o?igshid=NGExMmI2YTkyZg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/ohwowo_o?igshid=NGExMmI2YTkyZg=="/></a>&nbsp
   <a href="mailto:sbjdnm@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sbjdnm@gmail.com"/></a>&nbsp
 <a href="https://ohwowo3o.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ohwowo3o.tistory.com/" />
 </a></div>
-<br />
+<br /-->
 <!--
 **ohwowoAo/ohwowoAo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
