@@ -30,7 +30,7 @@
 | ShoppingMall Solution | 2025 - current | FullStack |
 | AI subtitle Platform  | 2023 - 2024    | FrontEnd  |
 | Bitcoin               | 2023 - 2023    | FrontEnd  |
-| ShoppingMall Skin Solution     | 2020 - 2021    | Publisher |
+| ShoppingMall Solution     | 2020 - 2021    | Publisher |
 
 
 
