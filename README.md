@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-40e0d0?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/styledComponents-ff69b4?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-66b2ff?style=for-the-badge&logo=jQuery&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-fceec2?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-fceec2?style=for-the-badge&logo=MySQL&logoColor=black">
   <img src="https://img.shields.io/badge/Python-6a5acd?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-ff6b81?style=for-the-badge&logo=nestjs&logoColor=white">
 </p>
