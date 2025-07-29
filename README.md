@@ -1,5 +1,5 @@
 <p align="center">
-  <br />
+  <br /><br/>
 <a><img src="https://readme-typing-svg.demolab.com?font=Bitcount&size=40&pause=1000&color=F7F402&background=FFFFFF00&width=700&lines=WELCOME+TO+EJ'S+CODING+LAND" alt="Typing SVG" /></a>
 </p>
 
@@ -25,7 +25,7 @@
 
 ### 🍎 Experiences
 
-| Type                  | Year           | Part      |
+| Type                  | Year           | Position      |
 |-----------------------|----------------|-----------|
 | ShoppingMall Solution | 2025 - current | FullStack |
 | AI subtitle Platform  | 2023 - 2024    | FrontEnd  |
