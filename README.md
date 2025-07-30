@@ -36,7 +36,7 @@
 
 <br/><br/>
 
-### 🍇 Extra Projects
+### 🍇 Additional Projects
 
 - 2025 블레이버스 MVP 개발 해커톤  
 - 와***펌 사이트 개선 프로젝트
