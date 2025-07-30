@@ -5,7 +5,7 @@
 
 <br/>
 
-### 🥕 Skills
+### 🪅 Skills
 
 <p>
   <img src="https://img.shields.io/badge/React-87cefa?style=for-the-badge&logo=react&logoColor=white">
@@ -23,7 +23,7 @@
 </p>
 <br/><br/>
 
-### 🍎 Experiences
+### 🎃 Experiences
 
 | Type                  | Year           | Position      |
 |-----------------------|----------------|-----------|
@@ -36,7 +36,7 @@
 
 <br/><br/>
 
-### 🍇 Additional Projects
+### 🤖 Additional Projects
 
 - 2025 블레이버스 MVP 개발 해커톤  
 - 와***펌 사이트 개선 프로젝트
